@@ -22,7 +22,7 @@ english_russian_pairs = [
     ["night", "ночь"]
 ]
 
-token = '8583668967:AAFrkktYNZfoVUShw4rplEw9Ww1--YYeOJM'
+token = '...'
 bot = aiogram.Bot(token=token)
 dp = aiogram.Dispatcher()
 
